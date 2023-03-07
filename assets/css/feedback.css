@@ -5,6 +5,7 @@ h1{
 
 body{
     font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
 
 }
 
@@ -18,10 +19,15 @@ form{
 
 input{
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 label{
     color: rgb(31, 180, 31);
 
+}
+
+iframe{
+    margin: 0%;
 }
 
