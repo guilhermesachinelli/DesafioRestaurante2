@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+
+}
+
+input{
+    border-radius: 10px;
+}
+
+label{
+    color: rgb(31, 180, 31);
+
+}
+
