@@ -19,10 +19,15 @@ form{
 
 input{
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 label{
     color: rgb(31, 180, 31);
 
+}
+
+iframe{
+    margin: 0%;
 }
 
