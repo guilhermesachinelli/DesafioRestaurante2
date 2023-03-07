@@ -37,4 +37,7 @@ body{
 }
 div{
     animation-name: spin;
+    animation-duration: 1500ms;
+    animation-iteration-count: initial;
+    animation-timing-function: linear;
 }
