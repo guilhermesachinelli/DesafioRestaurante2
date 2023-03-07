@@ -19,3 +19,14 @@ li{
     list-style: none;
     text-align: center;
 }
+header{
+    background-color: orange;
+    width: 100%;
+    position: fixed;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
