@@ -13,6 +13,7 @@ h1 {
     height: 350px;
     border-left: 7px solid orange;
     border-radius: 10px;
+    margin-bottom: 26px;
 }
 #div_2 {
     background-color: orange;
@@ -20,10 +21,18 @@ h1 {
     height: 350px;
     border-left: 7px solid orange;
     border-radius: 10px;
+    height: auto;
+    display: flex;
 }
 #p_1 {
     padding-left: 7px;
 }
 #section_1 {
     display: flex;
+}
+.sections {
+    
+}
+.img_div2 {
+    margin: auto;
 }
