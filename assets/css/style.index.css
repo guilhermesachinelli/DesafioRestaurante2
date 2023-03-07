@@ -23,6 +23,7 @@ h1 {
     border-radius: 10px;
     height: auto;
     display: flex;
+    margin-bottom: 7px;
 }
 
 #p_1 {
@@ -32,7 +33,9 @@ h1 {
     display: flex;
 }
 .sections {
-    
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
 }
 .img_div2 {
     margin: auto;
