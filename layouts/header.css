@@ -7,7 +7,7 @@ img {
 div {
     text-align: center;
 }
-
+/*Display alinhado e funcionando*/
 ul {
     display: flex;
     text-align: center;
@@ -23,11 +23,12 @@ li {
     list-style: none;
     text-align: center;
 }
-
+/**/
 header {
     background-color: orange;
     width: 100%;
     position: fixed;
+    margin: 0;
 }
 a{
     text-decoration: none;
