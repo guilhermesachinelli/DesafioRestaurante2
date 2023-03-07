@@ -1,4 +1,4 @@
-<!--Título, cor de fundo e fonte do site-->
+
 body {
     background-color: antiquewhite;
     font-family: 'Times New Roman';
@@ -8,7 +8,6 @@ h1 {
     text-align: center;
     color: black;
 }
-<!--CSS da Promoção Principal-->
 #div_1 {
     background-color: antiquewhite;
     width: 100%;
