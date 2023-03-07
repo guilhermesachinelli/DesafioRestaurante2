@@ -1,3 +1,28 @@
 p{
-    
+    text-align: center;
+    font-size: 70px;
+}
+input{
+    width: 70px;
+    height: 70px;
+}
+body{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: antiquewhite;
+    color: black;
+    margin: 0%;
+}
+#botao{
+    height: 80px;
+    width: 80px;
+}
+a{
+    background-color: beige;
+    border: 1px solid gray;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    padding: 7px;
 }
