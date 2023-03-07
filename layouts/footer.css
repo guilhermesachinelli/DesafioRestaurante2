@@ -1,0 +1,23 @@
+body{
+  
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+img{
+    width: 32px;
+}
+footer{
+    background-color: orange;
+    text-align: center;
+    box-shadow: 6px;
+    margin: 0;
+    margin-bottom: 0%;
+}
+p{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
